@@ -33,7 +33,8 @@ class ViteInstall extends BaseCommand
 CSS,
 
       $basePath . 'resources/js/app.js' => <<<JS
-// Entry point JS
+import "../css/app.css";
+
 console.log('Vite with CodeIgniter loaded');
 JS,
     ];
