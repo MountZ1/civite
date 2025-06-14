@@ -27,7 +27,7 @@
     },
     "codeigniter4": {
       "commands": [
-        "Mountz\\CiVite\\Commands\\ViteInit"
+        "Mountz\\CiVite\\ViteInstall"
       ]
     }
   },
