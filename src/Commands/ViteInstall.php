@@ -29,7 +29,7 @@ class ViteInstall extends BaseCommand
 
     $files = [
       $basePath . 'resources/css/app.css' => <<<CSS
-@import tailwindcss;
+@import "tailwindcss";
 CSS,
 
       $basePath . 'resources/js/app.js' => <<<JS
