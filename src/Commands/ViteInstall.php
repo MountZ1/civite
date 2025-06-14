@@ -88,7 +88,7 @@ export default defineConfig({
     tailwindcss(),
     laravel({
       input: [
-        'resources/main.js',
+        'resources/js/app.js',
         'resources/css/app.css'
       ],
       refresh: true,
