@@ -8,7 +8,7 @@
       "Mountz\\Civite\\": "src/"
     },
     "files": [
-      "src/civite"
+      "src/CiVite.php"
     ]
   },
   "authors": [
@@ -27,7 +27,7 @@
     },
     "codeigniter4": {
       "commands": [
-        "Mountz\\CiVite\\ViteInstall"
+        "Mountz\\CiVite\\Commands\\ViteInstall"
       ]
     }
   },

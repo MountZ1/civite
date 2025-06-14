@@ -1,6 +1,6 @@
 <?php
 
-namespace Mountz\CiVite;
+namespace Mountz\CiVite\Commands\ViteInstall;
 
 class CiVite
 {
